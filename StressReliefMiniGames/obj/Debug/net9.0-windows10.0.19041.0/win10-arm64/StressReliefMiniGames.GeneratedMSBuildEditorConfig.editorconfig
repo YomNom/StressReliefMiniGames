@@ -34,11 +34,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.AppS
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/MainPage.xaml]
+[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/BubbleWrapPop.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.BubbleWrapPop.xaml
+build_metadata.AdditionalFiles.TargetPath = BubbleWrapPop.xaml
+build_metadata.AdditionalFiles.RelativePath = BubbleWrapPop.xaml
+
+[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/ConnectingDots.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.ConnectingDots.xaml
+build_metadata.AdditionalFiles.TargetPath = ConnectingDots.xaml
+build_metadata.AdditionalFiles.RelativePath = ConnectingDots.xaml
+
+[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
+
+[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/RedOrBluePill.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.RedOrBluePill.xaml
+build_metadata.AdditionalFiles.TargetPath = RedOrBluePill.xaml
+build_metadata.AdditionalFiles.RelativePath = RedOrBluePill.xaml
 
 [C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -51,3 +69,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/UserProfileOpt.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.UserProfileOpt.xaml
+build_metadata.AdditionalFiles.TargetPath = UserProfileOpt.xaml
+build_metadata.AdditionalFiles.RelativePath = UserProfileOpt.xaml

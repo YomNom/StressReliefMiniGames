@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Maui Apps\\StressReliefMiniGames\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\gameclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\gameclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|c:\\maui apps\\stressreliefminigames\\stressreliefminigames\\connectingdots.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{15A81A70-50A5-4643-9917-785D7CC69B16}|StressReliefMiniGames\\StressReliefMiniGames.csproj|solutionrelative:stressreliefminigames\\connectingdots.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConnectingDots.xaml",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\ConnectingDots.xaml",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\ConnectingDots.xaml",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\ConnectingDots.xaml",
+              "RelativeToolTip": "StressReliefMiniGames\\ConnectingDots.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T19:54:23.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\HomePage.xaml",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\HomePage.xaml",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\HomePage.xaml",
+              "RelativeToolTip": "StressReliefMiniGames\\HomePage.xaml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-30T20:41:55.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\AppShell.xaml.cs",
+              "RelativeToolTip": "StressReliefMiniGames\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:44:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\App.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\App.xaml.cs",
+              "RelativeToolTip": "StressReliefMiniGames\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:44:04.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\App.xaml",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\App.xaml",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\App.xaml",
+              "RelativeToolTip": "StressReliefMiniGames\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T03:44:00.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\HomePage.xaml.cs",
+              "RelativeToolTip": "StressReliefMiniGames\\HomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:30:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameClass.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\GameClass.cs",
+              "RelativeDocumentMoniker": "StressReliefMiniGames\\GameClass.cs",
+              "ToolTip": "C:\\Maui Apps\\StressReliefMiniGames\\StressReliefMiniGames\\GameClass.cs",
+              "RelativeToolTip": "StressReliefMiniGames\\GameClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:29:04.143Z",
+              "EditorCaption": ""
             }
           ]
         }

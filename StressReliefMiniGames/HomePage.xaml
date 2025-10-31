@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StressReliefMiniGames.HomePage"
+             Title="HomePage">
+    <VerticalStackLayout>
+        <Grid RowDefinitions="Auto,*">
+            <CollectionView Grid.Row="0"
+                            Margin="5"
+                            BackgroundColor="Gray"
+                            x:Name="GamesCV"
+                            SelectionMode="Single"
+                            SelectionChanged="GameCV_SelectionChanged">
+                <CollectionView.ItemsLayout>
+                    <LinearItemsLayout Orientation="Vertical"
+                                       ItemSpacing="1" />
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Border Padding="5"
+                                Margin="5">
+                            <VerticalStackLayout Padding="10"
+                                                 VerticalOptions="Center">
+                                <Label FontSize="8"
+                                       TextColor="#303030"
+                                       Text="{Binding Name}" />
+                                
+                            </VerticalStackLayout>
+                        </Border>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>
