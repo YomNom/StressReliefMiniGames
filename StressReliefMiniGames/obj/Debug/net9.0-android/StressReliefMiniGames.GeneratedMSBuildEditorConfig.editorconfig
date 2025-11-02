@@ -12,61 +12,61 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StressReliefMiniGames
-build_property.ProjectDir = C:\Maui Apps\StressReliefMiniGames\StressReliefMiniGames\
+build_property.ProjectDir = C:\Users\sufan\Downloads\DotNetMauiGroupProject\StressReliefMiniGames\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/App.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/AppShell.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/BubbleWrapPop.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/BubbleWrapPop.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.BubbleWrapPop.xaml
 build_metadata.AdditionalFiles.TargetPath = BubbleWrapPop.xaml
 build_metadata.AdditionalFiles.RelativePath = BubbleWrapPop.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/ConnectingDots.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/ConnectingDots.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.ConnectingDots.xaml
 build_metadata.AdditionalFiles.TargetPath = ConnectingDots.xaml
 build_metadata.AdditionalFiles.RelativePath = ConnectingDots.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/HomePage.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = HomePage.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/RedOrBluePill.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/RedOrBluePill.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.RedOrBluePill.xaml
 build_metadata.AdditionalFiles.TargetPath = RedOrBluePill.xaml
 build_metadata.AdditionalFiles.RelativePath = RedOrBluePill.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/Resources/Styles/Colors.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/Resources/Styles/Styles.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Maui Apps/StressReliefMiniGames/StressReliefMiniGames/UserProfileOpt.xaml]
+[C:/Users/sufan/Downloads/DotNetMauiGroupProject/StressReliefMiniGames/UserProfileOpt.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = StressReliefMiniGames.UserProfileOpt.xaml
 build_metadata.AdditionalFiles.TargetPath = UserProfileOpt.xaml
